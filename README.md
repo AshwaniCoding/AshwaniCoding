@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanicoding&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanicoding" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwanicoding" alt="ashwanicoding" /></a> </p>
-
 - 🔭 I’m currently working on **ATM using Java**
 
 - 🌱 I’m currently learning **Java and Android**
@@ -16,6 +14,8 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **ashwanidwivedi7898@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwanicoding" alt="ashwanicoding" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
