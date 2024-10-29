@@ -5,11 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanicoding&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanicoding" /> </p>
 
-- 🔭 I’m currently working on **Online Bankin System using Java**
-
 - 🌱 I’m currently learning **Java**
-
-- 👯 I’m looking to collaborate on **Library Management System**
 
 - 💬 Ask me about **Java**
 
