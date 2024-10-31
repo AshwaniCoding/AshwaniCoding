@@ -1,15 +1,44 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
 <h1 align="center">Hi 👋, I'm Ashwani Kumar Dwivedi</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">Welcome to my GitHub profile! I’m a **Software Developer** with a strong focus on backend development, test automation, and data analysis. I enjoy building reliable, efficient, and scalable solutions that address real-world challenges. Here’s a quick overview of my skills, current projects, and professional journey.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif">  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanicoding&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanicoding" /> </p>
 
-- 🌱 I’m currently learning **Java**
+### 🛠️ Skills & Technologies
 
-- 💬 Ask me about **Java**
+- **Languages:** ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+- **Frameworks & Libraries:** Spring Boot, TestNG, Cucumber, Selenium, JUnit
+- **Databases:** MySQL, MongoDB
+- **Tools & Platforms:** Maven, Git, Jenkins, Docker, GitHub Actions
+- **Reports & Analytics:** Allure, Extent Reports
+- **Specialties:** API Development, Automation Frameworks, Data Analysis
 
-- 📫 How to reach me **ashwanidwivedi7898@gmail.com**
+---
+
+### 📂 Featured Projects
+
+#### 🔹 Test Automation Framework
+A modular TestNG framework powered by Maven and JDK 21, featuring cross-browser testing, dynamic reporting, and compatibility with Allure and Extent Reports.
+
+#### 🔹 BookVerse
+An API-based digital library management service built with Spring Boot, featuring user authentication, borrowing history, and personalized recommendations.
+
+#### 🔹 Food Classification Research
+A deep learning project focusing on food classification and recognition using CNNs to enhance image recognition accuracy.
+
+---
+
+### 💼 Professional Experience
+
+- **DigitalBhem Intern**  
+  Developed an **Online Banking System** in Java, focusing on secure transaction processing and user data management.
+
+---
+
+### 🌱 Current Focus
+
+Diving deeper into **data analysis** and exploring **advanced automation practices** to further expand my skill set.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwanicoding" alt="ashwanicoding" /></a> </p>
 
