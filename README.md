@@ -58,6 +58,6 @@ Diving deeper and exploring **advanced automation practices** to further expand 
 
 ---
 
-<p><img align="right" height="195" width="50" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwanicoding&show_icons=true&locale=en&layout=compact" alt="ashwanicoding" /></p>
+<p><img align="right" height="195" width="327.5" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwanicoding&show_icons=true&locale=en&layout=compact" alt="ashwanicoding" /></p>
 
-<p><img align="left" height="195" width="515" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwanicoding&" alt="ashwanicoding" /></p>
+<p><img align="left" height="195" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwanicoding&" alt="ashwanicoding" /></p>
