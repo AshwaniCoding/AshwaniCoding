@@ -8,11 +8,11 @@
 ### 🛠️ Skills & Technologies
 
 - **Languages:** ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-- **Frameworks & Libraries:** Spring Boot, TestNG, Cucumber, Selenium, JUnit
-- **Databases:** MySQL, MongoDB
-- **Tools & Platforms:** Maven, Git, Jenkins, Docker, GitHub Actions
+- **Frameworks & Libraries:** TestNG, Cucumber, Selenium, JUnit
+- **Databases:** MySQL
+- **Tools & Platforms:** Maven, Git, Jenkins, GitHub Actions
 - **Reports & Analytics:** Allure, Extent Reports
-- **Specialties:** API Development, Automation Frameworks, Data Analysis
+- **Specialties:** Desktop Appication, Automation Frameworks
 
 ---
 
@@ -38,7 +38,7 @@ A deep learning project focusing on food classification and recognition using CN
 
 ### 🌱 Current Focus
 
-Diving deeper into **data analysis** and exploring **advanced automation practices** to further expand my skill set.
+Diving deeper and exploring **advanced automation practices** to further expand my skill set.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwanicoding" alt="ashwanicoding" /></a> </p>
 
